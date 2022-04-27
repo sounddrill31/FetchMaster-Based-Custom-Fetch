@@ -1,5 +1,5 @@
 #!/bin/bash
-printf "Ensure this is NOT running as sudo"
+printf "Ensure this is running as sudo"
 sleep 30
 mkdir /root/chadfetch/
 sleep 30
